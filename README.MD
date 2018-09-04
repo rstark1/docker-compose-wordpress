@@ -1,4 +1,4 @@
-# DOCKER COMPOSE WORDPRESS, MariaDB, MYSQL y PHPMyAdmin
+# DOCKER COMPOSE WORDPRESS, MARIADB, MYSQL y PHPMYADMIN
 [![Wordpress](https://benoitl.fr/wp-content/uploads/2018/07/formation-wordpress.x85234.jpg)](https://es-mx.wordpress.org/download/)
 [![MariaDB](https://mariadb.org/wp-content/uploads/2015/10/mariadb-usa-inc.png)](https://downloads.mariadb.org/)
 [![MYSQL](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScEkvwm5GHqcs_Qf5t9YHJQ-Zz1KSMgMBdZiu145_etxT4hqWh)](https://www.mysql.com/downloads/)
